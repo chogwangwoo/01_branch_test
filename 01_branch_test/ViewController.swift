@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("1st commit")
+        print("2st commit")
+        print("I am in develop branch")
     }
 
     override func didReceiveMemoryWarning() {
